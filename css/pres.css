@@ -1,0 +1,7 @@
+.imgroll_elmt{
+	transform: rotate(35deg);
+	-ms-transform: rotate(35deg); /* IE 9 */
+	-webkit-transform: rotate(35deg); /* Safari and Chrome */
+	width: 1200px;
+	height: 600px;
+}
